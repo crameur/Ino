@@ -1,0 +1,11 @@
+inoEC		KEYWORD1
+
+getvMeasured	KEYWORD2
+
+calibrEC	KEYWORD2
+
+Volt2Res	KEYWORD2
+
+Res2Cond	KEYWORD2
+
+getEC		KEYWORD2
