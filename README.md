@@ -8,3 +8,6 @@ This will give you the ability to monitor :
 This project was made using an arduino Nano board and a Nextion display.
 
 
+<img src="images/IMG_1642.jpg" width="150">
+
+
